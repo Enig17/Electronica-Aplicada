@@ -1,0 +1,36 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Planteamiento e introducción teórica}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Diagrama general en bloques}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Transformador}{1}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Forma de onda en el secundario}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Selección de la corriente del transformador}{3}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}Rectificación}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Frecuencia de la señal rectificada}{4}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Tensión luego del puente rectificador}{4}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Selección de los diodos}{5}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Filtrado}{5}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Cálculo del capacitor de filtro}{6}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Tensión nominal del capacitor}{7}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Filtrado de alta frecuencia}{8}{subsubsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.5}Regulación}{8}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Tensión de salida}{8}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Condición de regulación}{9}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Potencia disipada por el regulador}{9}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Forma de onda a la salida del regulador}{10}{subsubsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Circuitos auxiliares y de protección}{10}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Fuente auxiliar negativa}{11}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Diodos de protección del LM317}{11}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Capacitores de desacople y estabilidad}{12}{subsubsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}Indicador de encendido}{12}{subsubsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.7}Resumen del funcionamiento}{12}{subsection.1.7}%
+\contentsline {section}{\numberline {2}Ensayos y mediciones}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Medición de ripple}{14}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Ripple en el filtro capacitivo y determinación de parámetros}{14}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Determinación de la resistencia interna del transformador y los diodos}{16}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Mediciones finales}{17}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Regulación de voltaje}{17}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Factor de ripple}{18}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Cálculo de la temperatura de juntura}{19}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Conclusiones}{20}{section.3}%
+\contentsline {section}{\numberline {4}Esquemático completo de la fuente}{21}{section.4}%
+\contentsline {section}{\numberline {5}Bibliografía}{22}{section.5}%
