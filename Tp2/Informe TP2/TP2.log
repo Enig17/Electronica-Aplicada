@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  13 SEP 2026 02:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  13 SEP 2026 03:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1152,10 +1152,14 @@ tex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count401
 ) (Tp2.aux
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported  on input line 12.
+(babel)             Reported  on input line 13.
+
+<Reading QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/1e7e6
+68d30b3fef6160b1803ca41895f2eb42679/Tp2/Informe%20TP2/TP2.pdf" at level 7-M fro
+m aux file.>
 )
 \openout1 = `Tp2.aux'.
 
@@ -1454,13 +1458,13 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 
-<QR code requested for "https://github.com/Enig17/Electronica-Aplicada/blob/1e7
-e668d30b3fef6160b1803ca41895f2eb42679/Tp2/Informe%20TP2/TP2.pdf" in version 0-M
+<QR code requested for "https://github.com/Enig17/Electronica-Aplicada/blob/87e
+e7fb1f7b14059d3edf0ff2540d80d64404c7f/Tp2/Informe%20TP2/TP2.pdf" in version 0-M
 .>
 \qr@newforcount=\count408
 
-<Calculating QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/1
-e7e668d30b3fef6160b1803ca41895f2eb42679/Tp2/Informe%20TP2/TP2.pdf" in version 7
+<Calculating QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/8
+7ee7fb1f7b14059d3edf0ff2540d80d64404c7f/Tp2/Informe%20TP2/TP2.pdf" in version 7
 -M.>
 <Splitting off block 1> <Splitting off block 2> <Splitting off block 3>
 <Splitting off block 4> <Making error block 1> <Making error block 2>
@@ -1470,15 +1474,15 @@ e7e668d30b3fef6160b1803ca41895f2eb42679/Tp2/Informe%20TP2/TP2.pdf" in version 7
 30, 31, .> <Interleaving errorblocks of length 18:  1, 2, 3, 4, 5, 6, 7, 8, 9,
 10, 11, 12, 13, 14, 15, 16, 17, 18, .><Interleaving complete.>
 <Writing data... done.>
-<Applying Mask 0... done. Calculating penalty... penalty is 2091>
-<Applying Mask 1... done. Calculating penalty... penalty is 1992>
-<Applying Mask 2... done. Calculating penalty... penalty is 1996>
-<Applying Mask 3... done. Calculating penalty... penalty is 2062>
-<Applying Mask 4... done. Calculating penalty... penalty is 1973>
-<Applying Mask 5... done. Calculating penalty... penalty is 1966>
-<Applying Mask 6... done. Calculating penalty... penalty is 2029>
-<Applying Mask 7... done. Calculating penalty... penalty is 1981>
-<Selected Mask 5>
+<Applying Mask 0... done. Calculating penalty... penalty is 2181>
+<Applying Mask 1... done. Calculating penalty... penalty is 2189>
+<Applying Mask 2... done. Calculating penalty... penalty is 1873>
+<Applying Mask 3... done. Calculating penalty... penalty is 2041>
+<Applying Mask 4... done. Calculating penalty... penalty is 2003>
+<Applying Mask 5... done. Calculating penalty... penalty is 2042>
+<Applying Mask 6... done. Calculating penalty... penalty is 2118>
+<Applying Mask 7... done. Calculating penalty... penalty is 2017>
+<Selected Mask 2>
 <Encoding and writing format string... done.>
 <Encoding and writing version information... done.>
 <Saving QR code to memory... done.>
@@ -1494,8 +1498,8 @@ enddocument/afterlastpage (AED): lastpage setting LastPage.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 
-<Reading QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/1e7e6
-68d30b3fef6160b1803ca41895f2eb42679/Tp2/Informe%20TP2/TP2.pdf" at level 7-M fro
+<Reading QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/87ee7
+fb1f7b14059d3edf0ff2540d80d64404c7f/Tp2/Informe%20TP2/TP2.pdf" at level 7-M fro
 m aux file.>
 )
  ***********
@@ -1506,13 +1510,13 @@ Package rerunfilecheck Info: File `Tp2.out' has not changed.
 (rerunfilecheck)             Checksum: 26B44E3F630F041C6F8920BE25942FE3;7449.
  ) 
 Here is how much of TeX's memory you used:
- 51707 strings out of 469941
- 1165875 string characters out of 5469430
- 1636922 words of memory out of 5000000
- 77655 multiletter control sequences out of 15000+600000
+ 51708 strings out of 469941
+ 1166018 string characters out of 5469430
+ 1639069 words of memory out of 5000000
+ 77656 multiletter control sequences out of 15000+600000
  684605 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 137i,20n,377p,2338b,2247s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,20n,377p,2340b,2247s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
 fb><C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.p
@@ -1525,7 +1529,7 @@ b><C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 :/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C
 :/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C
 :/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Tp2.pdf (26 pages, 5425642 bytes).
+Output written on Tp2.pdf (26 pages, 5425660 bytes).
 PDF statistics:
  572 PDF objects out of 1000 (max. 8388607)
  183 named destinations out of 1000 (max. 500000)
