@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  16 SEP 2026 02:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  16 SEP 2026 02:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1272,6 +1272,10 @@ LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported  on input line 13.
+
+<Reading QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/f6c65
+0413b75fdd316e87fe200fa76ec4ed0b9c6/Tp3/Informe%20Tp3/Tp3.pdf" at level 7-M fro
+m aux file.>
 )
 \openout1 = `Tp3.aux'.
 
@@ -1519,7 +1523,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-19.09483pt}.
 
 [5]
-<simulacion1.jpeg, id=229, 1606.0pt x 940.51375pt>
+<simulacion1.jpeg, id=233, 1606.0pt x 940.51375pt>
 File: simulacion1.jpeg Graphic file (type jpg)
 <use simulacion1.jpeg>
 Package pdftex.def Info: simulacion1.jpeg  used on input line 599.
@@ -1534,7 +1538,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-19.09483pt}.
 
 [6 <./simulacion1.jpeg>]
-<circuito.jpeg, id=237, 519.44063pt x 264.99pt>
+<circuito.jpeg, id=241, 519.44063pt x 264.99pt>
 File: circuito.jpeg Graphic file (type jpg)
 <use circuito.jpeg>
 Package pdftex.def Info: circuito.jpeg  used on input line 667.
@@ -1678,7 +1682,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1204.
 
-<beta.jpeg, id=284, 903.375pt x 1606.0pt>
+<beta.jpeg, id=288, 903.375pt x 1606.0pt>
 File: beta.jpeg Graphic file (type jpg)
 <use beta.jpeg>
 Package pdftex.def Info: beta.jpeg  used on input line 1212.
@@ -1695,6 +1699,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [14]
 
 
+<QR code requested for "https://github.com/Enig17/Electronica-Aplicada/blob/f6c
+650413b75fdd316e87fe200fa76ec4ed0b9c6/Tp3/Informe%20Tp3/Tp3.pdf" in version 0-M
+.>
+
+<Copying the QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/f
+6c650413b75fdd316e87fe200fa76ec4ed0b9c6/Tp3/Informe%20Tp3/Tp3.pdf" in version 7
+-M as previously calculated.>
+
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 31.09483pt, for example:
 (fancyhdr)                \setlength{\headheight}{31.09483pt}.
@@ -1707,22 +1721,26 @@ enddocument/afterlastpage (AED): lastpage setting LastPage.
 (Tp3.aux
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
+
+<Reading QR code for "https://github.com/Enig17/Electronica-Aplicada/blob/f6c65
+0413b75fdd316e87fe200fa76ec4ed0b9c6/Tp3/Informe%20Tp3/Tp3.pdf" at level 7-M fro
+m aux file.>
 )
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `Tp3.out' has not changed.
-(rerunfilecheck)             Checksum: 7F9C716AA26870FCC77ECEDDDC89171D;7275.
+(rerunfilecheck)             Checksum: BE4B73090A2A291255E82078A24D78F9;7454.
  ) 
 Here is how much of TeX's memory you used:
- 61444 strings out of 469941
- 1542941 string characters out of 5469430
- 2252136 words of memory out of 5000000
- 87486 multiletter control sequences out of 15000+600000
+ 61448 strings out of 469941
+ 1543279 string characters out of 5469430
+ 2334260 words of memory out of 5000000
+ 87490 multiletter control sequences out of 15000+600000
  648115 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,19n,131p,726b,2248s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,19n,131p,2340b,2248s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
 1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -1744,9 +1762,9 @@ ublic/amsfonts/cm/cmr10.pfb><C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/scanf/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/scanf/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Tp3.pdf (16 pages, 675678 bytes).
+Output written on Tp3.pdf (16 pages, 681544 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
+ 682 PDF objects out of 1000 (max. 8388607)
  62 named destinations out of 1000 (max. 500000)
- 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 

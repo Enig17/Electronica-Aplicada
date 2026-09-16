@@ -34,3 +34,4 @@
 \contentsline {section}{\numberline {9}Mediciones complementarias}{14}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Medición de la ganancia de corriente $\beta $ del transistor}{14}{subsection.9.1}%
 \contentsline {section}{\numberline {10}Bibliografía y fuentes}{15}{section.10}%
+\contentsline {section}{Acceso al informe digital}{15}{section.10}%
